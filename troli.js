@@ -14,7 +14,6 @@ vegallomasNevek["81"] = "Örs vezér tere - Fischer István utca";
 vegallomasNevek["82"] = "Uzsoki Utcai Kórház - Örs vezér tere";
 vegallomasNevek["83"] = "Fővám tér - Orczy tér";
 
-
 function jaratKiiras(elem, index){
 	var ujElem = document.createElement("option");
     var ujSzoveg = document.createTextNode(index); 
